@@ -8,6 +8,10 @@ I might add database support in the future, although I do not see a reason for i
 
 The API is designed to be the exact same at a different host, so you can just switch out the host from ``https://api2.rcproxies.com`` to ``http://localhost:8888`` for example.
 
+### Project Setup
+
+You'll need to have node js and npm installed. Simply run ``npm i`` or ``yarn install``
+
 ### Environment Setup
 
 An example can be seen at ``.sample``
