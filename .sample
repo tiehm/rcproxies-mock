@@ -1,0 +1,4 @@
+PORT=8888
+EMAIL=admin@mock.com
+PASSWORD=password
+TOKEN=good_token
