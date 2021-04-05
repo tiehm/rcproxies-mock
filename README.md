@@ -19,6 +19,16 @@ PASSWORD #The Password needed to authenticate with the API
 TOKEN #The Token which you'll get after successfull Authentication
 ````
 
+### Directory Setup
+
+Create a ``data`` directory with a ``data.json`` file with an empty array inside.
+
+````bash
+mkdir data
+touch data/data.json
+echo "[]" > data/data.json
+````
+
 ### License
 
 Please look at ``LICENSE``.
