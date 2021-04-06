@@ -12,6 +12,11 @@ The API is designed to be the exact same at a different host, so you can just sw
 
 You'll need to have node js and npm installed. Simply run ``npm i`` or ``yarn install``
 
+Compile Typescript:
+``tsc``
+
+Run via ``node build/index``
+
 ### Environment Setup
 
 An example can be seen at ``.sample``
