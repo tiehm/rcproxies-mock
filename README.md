@@ -1,5 +1,7 @@
 # RCProxies API Mock
 
+I also created a mock for [oxylabs](https://github.com/tiehm/oxylabs-mock).
+
 Original API can be found [here](https://app.swaggerhub.com/apis-docs/rcproxies/RCProxies-Reseller-API/1.0.1-oas4). While I am trying to copy their API as much as possible, I left out methods I do not need at this moment.
 
 This is a mock API for the rcproxies API. I made this as I, obviously, needed a mock for it which responds with real data. This is a very simple API which uses a JSON file in ``data/data.json`` to get the saved users etc. 
